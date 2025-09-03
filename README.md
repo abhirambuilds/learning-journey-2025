@@ -2,7 +2,7 @@
 
 🚀 B.Tech CSE @ SRM KTR (2024–2028)  
 💻 Learning DSA, Web Development (MERN), and AI/ML  
-🎯 Dream: SWE @ FAANG by 2028  
+🎯 Dream: SWE @ Tier-1 Product-Based Company by 2028
 
 ---
 
