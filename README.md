@@ -19,7 +19,6 @@ This repo tracks my learning and growth from **June to December 2025**, as I bui
 ### 📁 Structure:
 - `ml-a-z/` – ML course notebooks and models  
 - `dsa-practice/` – Leetcode & CP solutions  
-- `web-dev-basics/` – HTML/CSS/JS practice + projects
 
 
 ---
